@@ -1,3 +1,5 @@
+<a class="tar_download_link" href="https://github.com/pages-themes/slate/tarball/master">Download this project as a tar.gz file</a>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/master3395/DBM-Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
